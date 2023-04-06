@@ -11,8 +11,6 @@ I made this game while watching scrimba Api course
   </h6>
 </div>
 
-![screenshot](https://raw.githubusercontent.com/MuhmmadAwd/upload-gif/main/colorPiker.gif)
-
 ## Table of Contents
 
 - [Description](#description)
