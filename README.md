@@ -31,7 +31,7 @@ value of the cards.
 - [html]()
 - [css]()
 - [js]()
-- [ColorAPI]()
+- [deckofcardsAPI]()
 
 ## Features
 
